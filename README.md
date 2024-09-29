@@ -24,7 +24,6 @@ The present theory plus the recent theory of [Maresca-Curtin](https://www.scienc
 
 Please cite this work as:
 ```
-
 @article{ghafarollahi2020theory,
   title={Theory of double-kink nucleation in dilute BCC alloys},
   author={Ghafarollahi, Alireza and Curtin, William A},
@@ -35,5 +34,4 @@ Please cite this work as:
   publisher={Elsevier},
 url={[https://arxiv.org/abs/2409.05556](https://www.sciencedirect.com/science/article/abs/pii/S1359645420305061)}, 
 }
-
 ```
