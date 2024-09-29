@@ -13,3 +13,27 @@ The model is extensively validated via simulations in model Fe-Si alloys describ
 [Maresca-Curtin](https://www.sciencedirect.com/science/article/abs/pii/S1359645419306676). The analysis for Fe-Si is consistent with a cross-over at ~2-3 at.% Si, as observed experimentally, and qualitatively consistent with W-Ta and W-Re. 
 
 The present theory plus the recent theory of [Maresca-Curtin](https://www.sciencedirect.com/science/article/abs/pii/S1359645419306676) together provide a coherent predictive framework for strengthening of screw dislocations over the full range of concentrations from extremely dilute ( ≪  1 at.%), to dilute (up to a few at.%) and non-dilute alloys including High Entropy Alloys.
+
+
+
+
+
+
+
+### Original paper
+
+Please cite this work as:
+```
+
+@article{ghafarollahi2020theory,
+  title={Theory of double-kink nucleation in dilute BCC alloys},
+  author={Ghafarollahi, Alireza and Curtin, William A},
+  journal={Acta Materialia},
+  volume={196},
+  pages={635--650},
+  year={2020},
+  publisher={Elsevier},
+url={[https://arxiv.org/abs/2409.05556](https://www.sciencedirect.com/science/article/abs/pii/S1359645420305061)}, 
+}
+
+```
