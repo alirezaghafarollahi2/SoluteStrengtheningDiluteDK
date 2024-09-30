@@ -3,7 +3,7 @@ A. Ghafarollahi*, W.A. Curtin
 
 EPFL
 
-aghafar7@mit.edu
+alireza.ghafarollahi@gmail.com
 
 ## Summary
 
