@@ -15,7 +15,8 @@ The model is extensively validated via simulations in model Fe-Si alloys describ
 The present theory plus the recent theory of [Maresca-Curtin](https://www.sciencedirect.com/science/article/abs/pii/S1359645419306676) together provide a coherent predictive framework for strengthening of screw dislocations over the full range of concentrations from extremely dilute ( ≪  1 at.%), to dilute (up to a few at.%) and non-dilute alloys including High Entropy Alloys.
 
 
-
+### Code
+The notebook file contains the functions and tools required to predict the yield stress in BCC dilute alloys controlled by double-kink nucleation.
 
 
 
