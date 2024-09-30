@@ -16,7 +16,7 @@ The present theory plus the recent theory of [Maresca-Curtin](https://www.scienc
 
 ![Screenshot from 2024-09-30 18-29-35](https://github.com/user-attachments/assets/dceb18a9-0d6a-4533-9ecd-a46941d4d5b5)
 
-Figure 1: Doube-kink nucleation theory predictions for $\mathrm{Fe}_{1-x}-\mathrm{Si}_{x}$ alloys.
+Figure 1: Doube-kink nucleation theory predictions for $Fe_{1-x}-Si_{x}$ alloys.
 
 ### Code
 The notebook file contains the functions and tools required to predict the yield stress in BCC dilute alloys controlled by double-kink nucleation.
