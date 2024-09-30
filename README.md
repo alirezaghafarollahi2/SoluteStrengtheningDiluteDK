@@ -17,6 +17,7 @@ The present theory plus the recent theory of [Maresca-Curtin](https://www.scienc
 
 ### Code
 The notebook file contains the functions and tools required to predict the yield stress in BCC dilute alloys controlled by double-kink nucleation.
+The requirements are (a) the __double-kink transition configurations__ and (b) the solute/dislocation interaction energy parameter $\Delta \tilde{E}_{p}$.
 
 
 
