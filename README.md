@@ -20,7 +20,7 @@ The notebook file contains the functions and tools required to predict the yield
 The requirements are 
 * __double-kink transition configurations in pure metal__
 * __stress-dependent double-kink nucleation barrier in pure metal__
-* the __solute/dislocation interaction energy parameter $\Delta \tilde{E}_{p}$__.
+* __solute/dislocation interaction energy parameter $\Delta \tilde{E}_{p}$__.
 
 
 
