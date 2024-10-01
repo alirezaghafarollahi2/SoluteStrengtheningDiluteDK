@@ -16,7 +16,7 @@ The present theory plus the recent theory of [Maresca-Curtin](https://www.scienc
 
 ![1-s2 0-S1359645420305061-fx1_lrg](https://github.com/user-attachments/assets/0751c198-f2c6-4155-82ef-9754bf08d743)
 
-Figure 1: Doube-kink nucleation in random solute environment. the fluctuations in the random solute environment creats a distibution of solute energy changes. Here, we developed a fully theoretical model to predict the mean of this distribution from which the double-kink nucleation barrier versus stress can be predicted. Finally, by intersecting the imposed experimental barrier with the alloy barrier curve, the alloy strength can be computed.  
+Figure 1: Doube-kink nucleation in a random solute environment. The fluctuations in the random solute environment create a distribution of solute energy changes. Here, we developed a fully theoretical model to predict the mean of this distribution from which the double-kink nucleation barrier versus stress can be predicted. Finally, by intersecting the imposed experimental barrier with the alloy barrier curve, the alloy strength can be computed.  
 
 ![Screenshot from 2024-09-30 18-29-35](https://github.com/user-attachments/assets/dceb18a9-0d6a-4533-9ecd-a46941d4d5b5)
 
